@@ -9,9 +9,21 @@ public class LoadFromWeb : MonoBehaviour {
 		yield return www;
 		Renderer renderer = GetComponent<Renderer>();
 		renderer.material.mainTexture = www.texture;
+
+		StartCoroutine("Loop");
 	}
 	
 	void Update () {
-	
+		//Loop();
+	}
+
+	IEnumerator Loop()
+	{
+		int count = 0;
+		for(;;){
+			Debug.Log(count);
+			count++;
+			yield return new WaitForSeconds(1);
+		}
 	}
 }
