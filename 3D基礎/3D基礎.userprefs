@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\VectorRefrection.cs">
+    <Files>
+      <File FileName="Assets\Scripts\VectorRefrection.cs" Line="21" Column="3" />
+      <File FileName="Assets\Scripts\Coordinate.cs" Line="41" Column="50" />
+      <File FileName="Assets\Scripts\TestRotate.cs" Line="14" Column="23" />
+      <File FileName="Assets\Scripts\Interrupt.cs" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
